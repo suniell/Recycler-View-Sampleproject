@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".NewsDetailActivity">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/newsImage"
+        android:src="@drawable/img2"
+        android:scaleType="centerCrop"
+        android:layout_margin="10dp"
+        >
+
+    </ImageView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:layout_margin="10dp"
+        android:id="@+id/newsHeading"
+        android:layout_gravity="center"
+
+        android:text="Corona virus is spreading all over the world.">
+
+    </TextView>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="20dp">
+
+
+        <TextView
+            android:id="@+id/newsContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:text="@string/news_content"
+            android:textSize="16dp"
+            android:textStyle="italic">
+
+        </TextView>
+
+    </ScrollView>
+
+
+</LinearLayout>

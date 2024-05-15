@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day24 Recycler View</string>
+    <string name="news_content">
+        SARS-CoV-2 PCR percent positivity, as detected in integrated sentinel surveillance as part of the Global Influenza Surveillance and Response System (GISRS) and reported to FluNet was around 8.0% from 69 countries during the week ending 31 March 2024.
+        Globally, JN.1 was the most reported variant of interest (VOI, now reported by 121 countries), accounting for 95.1.8% of sequences in week 13 compared to 93.0% in week 10. Its parent lineage, BA.2.86, has been declining and accounted for 1.6% of sequences in week 13 compared to 3.0% in week 10. Three variants under monitoring (VUMs): XBB, XBB.1.9.1, and XBB.2.3 have been de-escalated after having a prevalence of less than 1% for more than eight epidemiological weeks globally and across the WHO regions.
+        Globally, the number of new cases decreased by 11% during the past 28-day period of 4-31 March 2024 compared to the previous 28-day period (5 February to 3 March 2024), with over two hundred and seven-five thousand new cases reported. The number of new deaths decreased by 41% as compared to the previous 28-day period, with over 4200 new fatalities reported. As of 31 March 2024, over 774 million confirmed cases and more than seven million deaths have been reported globally.
+        During the period from 4-31 March 2024, COVID-19 new hospitalizations and admissions to an intensive care unit (ICU) both recorded an overall decrease of 45% and 50% with over 49 000 and more than 1200 admissions, respectively.
+    </string>
+</resources>
